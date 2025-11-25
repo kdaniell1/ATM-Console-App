@@ -15,11 +15,6 @@ This is Version 1, built during Week 1 of learning Java.
 - IntelliJ IDEA
 - Scanner class for user input
 
-## How to Run
-1. Clone the repo
-2. Open the project in IntelliJ
-3. Run `Main.java`
-
 ## Future Upgrades
 - Convert to OOP (classes & objects)
 - Add loops to allow continuous transactions
